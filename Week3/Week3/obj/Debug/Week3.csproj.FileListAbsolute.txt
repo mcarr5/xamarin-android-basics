@@ -1,0 +1,14 @@
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\bin\Debug\Week3.dll
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\bin\Debug\Week3.pdb
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\bin\Debug\Week3.dll.mdb
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\bin\Debug\Week3.Week3.apk
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\bin\Debug\Week3.Week3-Signed.apk
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\obj\Debug\Week3.dll
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\obj\Debug\Week3.pdb
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\obj\Debug\android\bin\Week3.Week3.apk
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\obj\Debug\res\layout\main.xml
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\obj\Debug\res\values\strings.xml
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\obj\Debug\res\drawable\icon.png
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\obj\Debug\res\layout\intent.xml
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\obj\Debug\R.cs.flag
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week3\Week3\obj\Debug\uploadflags.txt

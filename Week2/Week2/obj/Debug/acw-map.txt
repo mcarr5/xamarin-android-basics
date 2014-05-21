@@ -1,0 +1,5 @@
+Week2.CommonActivity;week2.CommonActivity
+Week2.SecondActivity;week2.SecondActivity
+Week2.ThirdActivity;week2.ThirdActivity
+Week2.ThirdActivity.ThirdActivityWebViewClient;week2.ThirdActivity_ThirdActivityWebViewClient
+Week2.FirstActivity;week2.FirstActivity

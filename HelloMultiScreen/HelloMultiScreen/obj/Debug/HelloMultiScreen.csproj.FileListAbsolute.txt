@@ -1,0 +1,14 @@
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\bin\Debug\HelloMultiScreen.dll
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\bin\Debug\HelloMultiScreen.pdb
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\bin\Debug\HelloMultiScreen.dll.mdb
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\bin\Debug\HelloMultiScreen.HelloMultiScreen.apk
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\bin\Debug\HelloMultiScreen.HelloMultiScreen-Signed.apk
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\obj\Debug\HelloMultiScreen.dll
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\obj\Debug\HelloMultiScreen.pdb
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\obj\Debug\android\bin\HelloMultiScreen.HelloMultiScreen.apk
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\obj\Debug\res\layout\main.xml
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\obj\Debug\res\values\strings.xml
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\obj\Debug\res\drawable\icon.png
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\obj\Debug\res\layout\second.xml
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\obj\Debug\R.cs.flag
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\HelloMultiScreen\HelloMultiScreen\obj\Debug\uploadflags.txt

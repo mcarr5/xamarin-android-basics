@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week2\ThirdActivity.cs">
+    <Files>
+      <File FileName="Week2\FirstActivity.cs" Line="38" Column="3" />
+      <File FileName="Week2\SecondActivity.cs" Line="25" Column="68" />
+      <File FileName="Week2\ThirdActivity.cs" Line="28" Column="70" />
+      <File FileName="Week2\CommonActivity.cs" Line="23" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Week2 MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="firstActivity">First Activity</string>
+	<string name="secondActivity">Second Activity</string>
+	<string name="thirdActivity">Third Activity</string>
+	<string name="loadFirst">Load First Activity</string>
+	<string name="loadSecond">Load Second Activity</string>
+	<string name="loadThird">Load Third Activity</string>
+	<string name="toastOnStart">OnStart called!</string>
+	<string name="toastOnResume">OnResume called!</string>
+	<string name="toastOnPause">OnPause called!</string>
+	<string name="toastOnDestroy">OnDestroy called!</string>
+	<string name="app_name">Week2</string>
+</resources>
