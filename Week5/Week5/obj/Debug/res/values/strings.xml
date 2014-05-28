@@ -1,0 +1,1 @@
+<resources><string name="selected_city">selected_city</string><string-array name="spinner_city_array"><item>Minneapolis, MN</item><item>Chicago, IL</item><item>Boston, MA</item><item>San Francisco, CA</item><item>Atlanta, GA</item><item>Manila, Philippines</item><item>Ann Arbor, MI</item><item>Newport Beach, CA</item><item>Charlotte, NC</item></string-array></resources>

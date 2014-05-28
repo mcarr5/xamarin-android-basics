@@ -1,0 +1,35 @@
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\bin\Debug\Week5.dll
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\bin\Debug\Week5.pdb
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\bin\Debug\Week5.dll.mdb
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\bin\Debug\Week5.Week5.apk
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\bin\Debug\Week5.Week5-Signed.apk
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\obj\Debug\Week5.dll
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\obj\Debug\Week5.pdb
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\obj\Debug\android\bin\Week5.Week5.apk
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\obj\Debug\res\layout\fragment.xml
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\obj\Debug\res\layout\getcity.xml
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\obj\Debug\res\layout\weather.xml
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\obj\Debug\res\layout\timedatepicker.xml
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\obj\Debug\res\values\strings.xml
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\obj\Debug\res\drawable\icon.png
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\obj\Debug\R.cs.flag
+C:\Users\mattc\Documents\Magenic Masters\Magenic Masters - (CSLA) Beginning CSLA.Net\Week5\Week5\obj\Debug\uploadflags.txt
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\bin\Debug\Week5.dll
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\bin\Debug\Week5.pdb
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\bin\Debug\Week5.dll.mdb
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\bin\Debug\Week5.Week5.apk
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\bin\Debug\Week5.Week5-Signed.apk
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\obj\Debug\Week5.dll
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\obj\Debug\Week5.pdb
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\obj\Debug\android\bin\Week5.Week5.apk
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\obj\Debug\res\layout\fragment.xml
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\obj\Debug\res\layout\city.xml
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\obj\Debug\res\layout\weather.xml
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\obj\Debug\res\layout\timedatepicker.xml
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\obj\Debug\res\values\strings.xml
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\obj\Debug\res\drawable\icon.png
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\obj\Debug\res\drawable\weather.jpg
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\obj\Debug\R.cs.flag
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\obj\Debug\uploadflags.txt

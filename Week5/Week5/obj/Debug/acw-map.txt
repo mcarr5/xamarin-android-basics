@@ -1,0 +1,4 @@
+Week5.CityFragment;week5.CityFragment
+Week5.FragmentActivity;week5.FragmentActivity
+Week5.DateTimeActivity;week5.DateTimeActivity
+Week5.WeatherFragment;week5.WeatherFragment

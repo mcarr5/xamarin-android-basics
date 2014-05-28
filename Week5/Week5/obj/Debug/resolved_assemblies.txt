@@ -1,0 +1,2 @@
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Week5\bin\Debug\Week5.dll
+C:\Users\mattc\Documents\Magenic Masters\(Android) Xamarin for Android\Week5\Components\json.net-4.5.11\lib\android\Newtonsoft.Json.dll

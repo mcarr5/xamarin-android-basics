@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week4\CheckerBoardGridView.cs">
+    <Files>
+      <File FileName="Week4\MainActivity.cs" Line="28" Column="15" />
+      <File FileName="Week4\SmileyFace.cs" Line="37" Column="30" />
+      <File FileName="Week4\MinnesotaZooListViewLayout.cs" Line="45" Column="7" />
+      <File FileName="Week4\CheckersAdapter.cs" Line="44" Column="67" />
+      <File FileName="Week4\CheckerBoardGridView.cs" Line="23" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Week4 MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" AndroidDeviceId-Debug="192.168.56.101:5555" />
+</Properties>
